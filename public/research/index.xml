@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Wang Lab</title>
+    <link>https://ksha23.github.io/research/</link>
+    <description>Recent content in Research on Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://ksha23.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Epigenomic landscape of zebrafish TEs</title>
+      <link>https://ksha23.github.io/research/paper1/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper1/</guid>
+      <description>Learn More Here
+Abstract Transposable elements (TEs) encode regulatory elements that impact gene expression in multiple species, yet a comprehensive analysis of zebrafish TEs in the context of gene regulation is lacking. Here, we systematically investigate the epigenomic and transcriptomic landscape of TEs across eleven adult zebrafish tissues using multidimensional sequencing data. We find that TEs contribute substantially to a diverse array of regulatory elements in the zebrafish genome and that 37% of TEs are positioned in active regulatory states in adult zebrafish tissues.</description>
+    </item>
+    
+    <item>
+      <title>Genetic, epigenetic, and environmental mechanisms govern allele-specific gene expression</title>
+      <link>https://ksha23.github.io/research/paper2/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper2/</guid>
+      <description>Learn More Here
+Abstract Allele-specific expression (ASE) is a phenomenon in which one allele is preferentially expressed over the other. Genetic and epigenetic factors cause ASE by altering the final composition of a gene&amp;rsquo;s product, leading to expression imbalances that can have functional consequences on phenotypes. Environmental signals also impact allele-specific expression, but how they contribute to this cross talk remains understudied. Here, we explored how genotype, parent-of-origin, tissue, sex, and dietary fat simultaneously influence ASE biases.</description>
+    </item>
+    
+    <item>
+      <title>The Human Pangenome Project: a global resource to map genomic diversity</title>
+      <link>https://ksha23.github.io/research/paper3/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper3/</guid>
+      <description>Learn More Here
+Abstract The human reference genome is the most widely used resource in human genetics and is due for a major update. Its current structure is a linear composite of merged haplotypes from more than 20 people, with a single individual comprising most of the sequence. It contains biases and errors within a framework that does not represent global human genomic variation. A high-quality reference with global representation of common variants, including single-nucleotide variants, structural variants and functional elements, is needed.</description>
+    </item>
+    
+    <item>
+      <title>WashU Epigenome Browser update 2022</title>
+      <link>https://ksha23.github.io/research/paper4/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper4/</guid>
+      <description>Learn More Here
+Abstract WashU Epigenome Browser (https://epigenomegateway.wustl.edu/browser/) is a web-based genomic data exploration tool that provides visualization, integration, and analysis of epigenomic datasets. The newly renovated user interface and functions have enabled researchers to engage with the browser and genomic data more efficiently and effectively since 2018. Here, we introduce a new integrated panel design in the browser that allows users to interact with 1D (genomic features), 2D (such as Hi-C), 3D (genome structure), and 4D (time series) data in a single web page.</description>
+    </item>
+    
+    <item>
+      <title>A mouse-specific retrotransposon drives a conserved Cdk2ap1 isoform essential for development</title>
+      <link>https://ksha23.github.io/research/paper5/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper5/</guid>
+      <description>Learn More Here
+Summary Retrotransposons mediate gene regulation in important developmental and pathological processes. Here, we characterized the transient retrotransposon induction during preimplantation development of eight mammals. Induced retrotransposons exhibit similar preimplantation profiles across species, conferring gene regulatory activities, particularly through long terminal repeat (LTR) retrotransposon promoters. A mouse-specific MT2B2 retrotransposon promoter generates an N-terminally truncated Cdk2ap1ΔN that peaks in preimplantation embryos and promotes proliferation. In contrast, the canonical Cdk2ap1 peaks in mid-gestation and represses cell proliferation.</description>
+    </item>
+    
+    <item>
+      <title>Epigenetic dynamics shaping melanophore and iridophore cell fate in zebrafish</title>
+      <link>https://ksha23.github.io/research/paper6/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper6/</guid>
+      <description>Learn More Here
+Abstract Background
+Zebrafish pigment cell differentiation provides an attractive model for studying cell fate progression as a neural crest progenitor engenders diverse cell types, including two morphologically distinct pigment cells: black melanophores and reflective iridophores. Nontrivial classical genetic and transcriptomic approaches have revealed essential molecular mechanisms and gene regulatory circuits that drive neural crest-derived cell fate decisions. However, how the epigenetic landscape contributes to pigment cell differentiation, especially in the context of iridophore cell fate, is poorly understood.</description>
+    </item>
+    
+    <item>
+      <title>Common DNA methylation dynamics in endometriod adenocarcinoma and glioblastoma suggest universal epigenomic alterations in tumorigenesis</title>
+      <link>https://ksha23.github.io/research/paper7/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://ksha23.github.io/research/paper7/</guid>
+      <description>Learn More Here
+Abstract Trends in altered DNA methylation have been defined across human cancers, revealing global loss of methylation (hypomethylation) and focal gain of methylation (hypermethylation) as frequent cancer hallmarks. Although many cancers share these trends, little is known about the specific differences in DNA methylation changes across cancer types, particularly outside of promoters. Here, we present a comprehensive comparison of DNA methylation changes between two distinct cancers, endometrioid adenocarcinoma (EAC) and glioblastoma multiforme (GBM), to elucidate common rules of methylation dysregulation and changes unique to cancers derived from specific cells.</description>
+    </item>
+    
+  </channel>
+</rss>
